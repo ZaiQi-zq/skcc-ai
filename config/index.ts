@@ -3,7 +3,7 @@ export const APP_ID = '19dd8fb6-774b-406d-be86-0c017e74b7c7'
 export const API_KEY = 'app-1h9YR1saWJEjTl9JRnBzqqxI'
 export const API_URL = 'https://ai.zzixq.cn/v1'
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: '南宁数字科技学院',
   description: '',
   copyright: '',
   privacy_policy: '',
