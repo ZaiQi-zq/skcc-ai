@@ -1,7 +1,7 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = 'd807d5b2-4d2a-4616-a308-6c8a4d6ca2bc'
-export const API_KEY = 'app-hKv4T2YqhX9ExFRThHgMFCiU'
-export const API_URL = 'https://api.dify.ai/v1'
+export const APP_ID = '19dd8fb6-774b-406d-be86-0c017e74b7c7'
+export const API_KEY = 'app-1h9YR1saWJEjTl9JRnBzqqxI'
+export const API_URL = 'https://ai.zzixq.cn/v1'
 export const APP_INFO: AppInfo = {
   title: '南宁数字科技学院',
   description: '',
