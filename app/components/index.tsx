@@ -38,7 +38,7 @@ const Main: FC = () => {
 
   useEffect(() => {
     if (APP_INFO?.title)
-      document.title = `${APP_INFO.title} - Powered by Dify`
+      document.title = `${APP_INFO.title} - 数科船舱`
   }, [APP_INFO?.title])
 
   /*
