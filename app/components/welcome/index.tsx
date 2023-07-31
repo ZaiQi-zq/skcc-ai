@@ -325,7 +325,6 @@ const Welcome: FC<IWelcomeProps> = ({
               </div>}
             <a className='flex items-center pr-3 space-x-3' href="https://zzixq.cn" target="_blank">
               <span className='uppercase'>数科船舱</span>
-              <FootLogo />
             </a>
           </div>
         )}
