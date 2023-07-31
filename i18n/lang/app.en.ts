@@ -8,7 +8,7 @@ const translation = {
     newChat: 'New chat',
     newChatDefaultName: 'New conversation',
     openingStatementTitle: 'Opening statement',
-    powerBy: 'Powered by',
+    powerBy: 'Powered by 数科船舱',
     prompt: 'Prompt',
     privatePromptConfigTitle: 'Conversation settings',
     publicPromptConfigTitle: 'Initial Prompt',
